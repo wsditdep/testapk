@@ -1,0 +1,1 @@
+"use strict";exports.id=4080,exports.ids=[4080],exports.modules={84080:(t,r,e)=>{e.r(r),e.d(r,{$$typeof:()=>p,__esModule:()=>a,default:()=>i});var o=e(68570);let s=(0,o.createProxy)(String.raw`D:\platforms\apkpure\components\history\History.js`),{__esModule:a,$$typeof:p}=s;s.default;let i=(0,o.createProxy)(String.raw`D:\platforms\apkpure\components\history\History.js#default`)}};

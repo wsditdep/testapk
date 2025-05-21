@@ -1,0 +1,1 @@
+"use strict";exports.id=6944,exports.ids=[6944],exports.modules={6944:(e,r,t)=>{t.r(r),t.d(r,{$$typeof:()=>a,__esModule:()=>l,default:()=>d});var s=t(68570);let o=(0,s.createProxy)(String.raw`D:\platforms\apkpure\components\slider\Slider.js`),{__esModule:l,$$typeof:a}=o;o.default;let d=(0,s.createProxy)(String.raw`D:\platforms\apkpure\components\slider\Slider.js#default`)}};

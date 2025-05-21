@@ -1,0 +1,1 @@
+"use strict";exports.id=5409,exports.ids=[5409],exports.modules={15409:(e,r,t)=>{t.r(r),t.d(r,{$$typeof:()=>l,__esModule:()=>s,default:()=>a});var o=t(68570);let p=(0,o.createProxy)(String.raw`D:\platforms\apkpure\components\profile\Profile.js`),{__esModule:s,$$typeof:l}=p;p.default;let a=(0,o.createProxy)(String.raw`D:\platforms\apkpure\components\profile\Profile.js#default`)}};

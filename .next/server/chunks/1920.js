@@ -1,0 +1,1 @@
+"use strict";exports.id=1920,exports.ids=[1920],exports.modules={61920:(e,t,r)=>{r.r(t),r.d(t,{$$typeof:()=>s,__esModule:()=>p,default:()=>u});var a=r(68570);let o=(0,a.createProxy)(String.raw`D:\platforms\apkpure\components\auth\SignUp.js`),{__esModule:p,$$typeof:s}=o;o.default;let u=(0,a.createProxy)(String.raw`D:\platforms\apkpure\components\auth\SignUp.js#default`)}};
